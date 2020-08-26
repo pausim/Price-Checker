@@ -10,6 +10,6 @@ This project provides solution how to scrape prices from eshops and receive emai
 
 All these steps are triggered by scheduled DAG of Apache Airflow:
 
-![Image of Apache Airflow DAG](https://github.com/pausim/Images/airflow_dag.png)
+![Image of Apache Airflow DAG](https://github.com/pausim/Price-Checker/blob/master/Images/airflow_dag.png)
 
 
